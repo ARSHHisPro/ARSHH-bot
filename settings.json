@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "BOT",
   "bot-account": {
-    "username": "Slobot00",
-    "password": "",
+    "username": "BOTBOTBOT",
+    "password": "ghuifhjsh192gdh",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "timbotheme.playserver.pro",
+    "port": 24974,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -73,8 +73,8 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "enabled": true,
+    "webhookUrl": "https://discord.gg/yz6RPMkMQn",
     "events": {
       "connect": true,
       "disconnect": true,
